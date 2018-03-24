@@ -1,1 +1,1 @@
-worker = TweetHappiness_SOLVED.py
+worker = python TweetHappiness_SOLVED.py
